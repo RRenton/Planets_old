@@ -1,1 +1,2 @@
-Mars is cold
+Mars is cold.
+This is a new line.
